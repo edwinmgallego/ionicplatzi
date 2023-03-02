@@ -1,0 +1,2 @@
+# ionicplatzi
+aprendiendo   ionic  nuevamente
